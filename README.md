@@ -19,11 +19,28 @@ done the same way twice, it should run itself the third time.
 Moving workflows off spreadsheets and paper into systems that hold their own
 state, enforce their own rules, and leave a trail.
 
+**Project lead**
+Running application-development projects and coordinating external service providers.
+
 ### Tech stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<table>
+<tr><td><b>Frameworks</b></td><td>.NET · Blazor · APIs</td></tr>
+<tr><td><b>Databases</b></td><td>Microsoft SQL Server · MySQL</td></tr>
+<tr><td><b>Tools</b></td><td>Visual Studio · JetBrains Rider · Git · Docker</td></tr>
+<tr><td><b>Platforms</b></td><td>Microsoft 365 · SharePoint · Power Automate · Qlik · Copilot</td></tr>
+</table>
+
+### Languages
+
+German (native) · English (B2)
 
 ---
 
