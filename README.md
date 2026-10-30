@@ -31,16 +31,10 @@ Running application-development projects and coordinating external service provi
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<table>
-<tr><td><b>Frameworks</b></td><td>.NET · Blazor · APIs</td></tr>
-<tr><td><b>Databases</b></td><td>Microsoft SQL Server · MySQL</td></tr>
-<tr><td><b>Tools</b></td><td>Visual Studio · JetBrains Rider · Git · Docker</td></tr>
-<tr><td><b>Platforms</b></td><td>Microsoft 365 · SharePoint · Power Automate · Qlik · Copilot</td></tr>
-</table>
 
 ### Languages
 
-German (native) · English (B2)
+German (native) · English
 
 ---
 
