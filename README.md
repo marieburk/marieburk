@@ -8,18 +8,18 @@ I build software with **C#** and **Blazor**.
 
 ### Focus
 
-**Application development**
+**Application development**\
 Business applications on .NET and Blazor
 
-**Automation**
+**Automation**\
 Replacing hand-run processes with reliable, repeatable ones. If a task has been
 done the same way twice, it should run itself the third time.
 
-**Digitalization**
+**Digitalization**\
 Moving workflows off spreadsheets and paper into systems that hold their own
 state, enforce their own rules, and leave a trail.
 
-**Project lead**
+**Project lead**\
 Running application-development projects and coordinating external service providers.
 
 ### Tech stack
