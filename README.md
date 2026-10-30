@@ -2,16 +2,14 @@
 
 **Software Developer** &nbsp;·&nbsp; Germany
 
-I build software with **C#** and **Blazor**. Most of what I enjoy sits where code
-removes manual work: automating the repetitive, and digitalizing the paper-based.
+I build software with **C#** and **Blazor**. 
 
 ---
 
 ### Focus
 
 **Application development**
-Business applications on .NET and Blazor — built so people can use them without
-reading a manual.
+Business applications on .NET and Blazor
 
 **Automation**
 Replacing hand-run processes with reliable, repeatable ones. If a task has been
@@ -29,4 +27,4 @@ state, enforce their own rules, and leave a trail.
 
 ---
 
-<sub>Always glad to talk about automation, digitalization, and .NET.</sub>
+<sub>Always glad to talk about programming.</sub>
